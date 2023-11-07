@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lbrce.parsa.UserValidationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.473 s -- in com.lbrce.parsa.UserValidationTest
